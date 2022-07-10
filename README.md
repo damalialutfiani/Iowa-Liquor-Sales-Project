@@ -12,4 +12,4 @@ The next step is to perform Data Visualization, for this visualization Google Da
 
 Furthermore, how to deliver the data visualization that we have made so that it is easy to understand.
 
-Then for the Iowa-Liquor-Sales-Project file in the form of a PDF file, it is an explanation file or working steps for this project.
+Then for the Iowa-Liquor-Sales-Project.pptx file in the form of a PPT file, it is an explanation file or working steps for this project.
