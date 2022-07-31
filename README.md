@@ -26,8 +26,9 @@ This is a project that I worked on based on study case given for the Mini Course
 **The next step is to perform Data Visualization**, for this visualization Google Data Studio is used.
 *Furthermore, how to deliver the data visualization that we have made so that it is easy to understand.*
 
-Then for the Iowa-Liquor-Sales-Project.pptx file in the form of a PPT file, it is an explanation file or working steps for this project.
-
-The query.sql file is a file that is used to view data and explore data which is then ready to be used for data visualization.
+-----------------------------------------------------------------------------------
+The following is a description of the file used :
+1. The **Iowa-Liquor-Sales-Project.pptx** file in the form of a PPT file, it is *an explanation file or working steps for this project.*
+2. The **query.sql** file is a file that is *used to view data and explore data* which is then ready to be used for data visualization.
 
 -- In this project, we use Google BiqQuery and Google Data Studio for visualization. --
