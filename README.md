@@ -29,6 +29,7 @@ This is a project that I worked on based on study case given for the Mini Course
 -----------------------------------------------------------------------------------
 The following is a description of the file used :
 1. The **Iowa-Liquor-Sales-Project.pptx** file in the form of a PPT file, it is *an explanation file or working steps for this project.*
-2. The **query.sql** file is a file that is *used to view data and explore data* which is then ready to be used for data visualization.
+2. Then file with pdf extension (**Iowa-Liquor-Sales-Project.pdf**) is a pdf version file of Iowa-Liquor-Sales-Project.pptx.
+3. The **query.sql** file is a file that is *used to view data and explore data* which is then ready to be used for data visualization.
 
 -- In this project, we use Google BiqQuery and Google Data Studio for visualization. --
