@@ -32,4 +32,6 @@ The following is a description of the file used :
 2. Then file with pdf extension (**Iowa-Liquor-Sales-Project.pdf**) is a pdf version file of Iowa-Liquor-Sales-Project.pptx.
 3. The **query.sql** file is a file that is *used to view data and explore data* which is then ready to be used for data visualization.
 
--- In this project, we use Google BiqQuery and Google Data Studio for visualization. --
+#### [NOTES!] In this project, we use Google BiqQuery and Google Data Studio for visualization. ####
+
+-- THANK YOU [@damalialutfiani](https://www.linkedin.com/in/damalialutfiani/) --
